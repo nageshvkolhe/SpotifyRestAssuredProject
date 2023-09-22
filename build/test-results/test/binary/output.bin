@@ -1,0 +1,76 @@
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+
+UResponse print using sout: io.restassured.internal.RestAssuredResponseImpl@66f5205a
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+UResponse print using sout: io.restassured.internal.RestAssuredResponseImpl@7c5aa2e7
+User Id :null
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
+{
+    "error": {
+        "status": 401,
+.        "message": "The access token expired"
+    }
+}
